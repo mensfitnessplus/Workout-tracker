@@ -1,0 +1,25 @@
+{
+  "name": "CoreLift - Personal Workout Tracker",
+  "short_name": "CoreLift",
+  "description": "Track your workouts, sets, reps, and progress over time.",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#f5f2eb",
+  "theme_color": "#8c7863",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
